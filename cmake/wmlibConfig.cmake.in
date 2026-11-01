@@ -1,0 +1,8 @@
+@PACKAGE_INIT@
+
+include(CMakeFindDependencyMacro)
+find_dependency(X11)
+
+include("${CMAKE_CURRENT_LIST_DIR}/wmlibTargets.cmake")
+
+check_required_components(wmlib)
