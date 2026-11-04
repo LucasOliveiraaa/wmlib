@@ -11,8 +11,8 @@
 extern "C" {
 #endif
 
-#define WMLIB_VERSION_MAJOR 2
-#define WMLIB_VERSION_MINOR 0
+#define WMLIB_VERSION_MAJOR 0
+#define WMLIB_VERSION_MINOR 6
 #define WMLIB_VERSION_PATCH 0
 
 /* Value of WMClient.desktop for clients shown on every desktop. */
