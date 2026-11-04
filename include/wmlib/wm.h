@@ -5,6 +5,7 @@
 #include <X11/Xlib.h>
 #include <stddef.h>
 
+#include "wmlib/geometry.h"
 #include "wmlib/types.h"
 
 #ifdef __cplusplus
